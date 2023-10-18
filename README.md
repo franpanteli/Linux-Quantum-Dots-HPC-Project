@@ -3,7 +3,7 @@
 
 <p<This project is from a research internship I completed which used HPC to perform calculations in materials science (geometry optimisation on quantum dots). This was my first in-depth introduction to Linux and involved 6 weeks of submitting and monitoring jobs to the Tier 2 HPC, Young.  The internship report I produced in this repository first introduces Indium Phosphide using condensed matter Physics nomenclature and then discusses results from calculations using the HPC facility. Further theory is then explored as an extension to this. A more technical abstract for this project is found in its internship report.</p>
 
-<strong> Full academic abstract </strong>
+<strong> Full abstract </strong>
 <p>Quantum dots are an example of a nanomaterial which are used for their size-tunable
 optoelectronic properties. There is an active body of computational and experimental
 research surrounding indium phosphide quantum dots (InP QDs), which have been suggested as a non-toxic alternative to cadmium selenide (CdSe) QDs. Experimental methods
